@@ -16,7 +16,7 @@ lat,lng,title,description,type
 46.77460578487635, 6.635517410756936,ES d'Yverdon-les-Bains - Léon-Michaud,"En grève le 4 décembre !",lieu
 46.32330983700268, 6.186058381900156,ES de Coppet - Terre-Sainte,"En grève les 25 et 26 novembre ! - Fermé le 26 novembre",lieu
 46.45864522445489, 6.3330169972479,EPS de Rolle,"En grève les 25 et 26 novembre !",lieu
-46.38204657235337, 6.22586575178298,ES de Nyon - Marens,En grève le 4 décembre - Fermé toute la journée !",lieu
+46.38204657235337, 6.22586575178298,ES de Nyon - Marens,"En grève le 4 décembre - Fermé toute la journée !",lieu
 46.49249791232744, 6.76697857821352,EPS de centre Lavaux,"En grève les 25 et 26 novembre !",lieu
 46.440550710943185, 6.2469394396458515, EPS de Begnins - L'Esplanade, "En grève les 25 et 26 novembre - Fermé partiellement le 26 novembre", lieu
 46.389424178466115, 6.224675126079991,EP de Nyon Jura et Prangins,"En grève le 4 décembre - Fermé le matin ",lieu
@@ -105,3 +105,4 @@ lat,lng,title,description,type
 46.519119358905655, 6.56797620474569, EPFL, "En grève le 4 décembre !", lieu
 46.51724531726239, 6.487172477259989, Centre d'Enseignement Prfessionnel de Morges, "En grève le 4 décembre !", lieu
 46.52194110200459, 6.633215571946943, Action - Rassemblement contre l'austerité, "Appel à tous les lieux mobilisés | Jeudi 4 décembre - 15h | Rassemblment contre la destruction des services publics, NON à l'austerité !", action
+
