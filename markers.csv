@@ -41,7 +41,7 @@ lat,lng,title,description,type
 46.51299969037001, 6.660032339579869,ES de Pully,"En grève les 25 et 26 novembre - Fermé les deux jours !",lieu
 46.50947118249321, 6.650263026085686,EP de Pully,"En grève les 25 et 26 novembre - Fermé les deux jours !",lieu
 46.51678817647073, 6.524911915062554,EPS de Préverenges et environs,"En grève les 25 et 26 novembre - Fermé le 25 l'après-midi et le 26 !",lieu
-46.65810732063352, 6.5161599067460845, EPS La Sarrraz, "En grève le 4 décembre !"
+46.65810732063352, 6.5161599067460845, EPS La Sarrraz, "En grève le 4 décembre !", lieu
 46.511292017807314, 6.6212939310651375,Gymnase Auguste Piccard,"En grève le 4 décembre !",lieu
 46.52744258010184, 6.625037575964566,Gymnase de Beaulieu,"En grève le 4 décembre !",lieu
 46.523602092143136, 6.640336739541087,Gymnase de Bugnon,"En grève le 4 décembre !",lieu
@@ -107,5 +107,6 @@ lat,lng,title,description,type
 46.51724531726239, 6.487172477259989, Centre d'Enseignement Professionnel de Morges, "En grève le 4 décembre !", lieu
 46.52194110200459, 6.633215571946943, Action - Rassemblement contre l'austerité, "Appel à tous les lieux mobilisés | Jeudi 4 décembre - 15h | Rassemblment contre la destruction des services publics, NON à l'austerité !", action
 46.54761263465361, 6.574006596744907, Ecole supérieur de la santé - Site de Crissier, "En grève le 4 décembre !", lieu
+
 
 
