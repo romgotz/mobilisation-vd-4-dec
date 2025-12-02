@@ -26,7 +26,7 @@ lat,lng,title,description,type
 46.532185793183004, 6.621944454922087,EPS de Lausanne - Bergières,"En grève le 4 décembre ! - Etablissement fermé ",lieu
 46.52278369643984, 6.641871239580305,EPS de Lausanne - Béthusy,"En grève le 4 décembre - Fermé toute la journée",lieu
 46.53741101415756, 6.630991110745695,ES de Lausanne - CF Ramuz,"En grève le 25 et 26 novembre",lieu
-46.53631767271192, 6.660044753144018, EP de Lausanne - Coteau Fleuri, "En grève le 4 décembre ! - Fermé le matin "
+46.53631767271192, 6.660044753144018, EP de Lausanne - Coteau Fleuri, "En grève le 4 décembre ! - Fermé le matin ", lieu
 46.5411857455945, 6.647020926087181,EPS de Lausanne - Isabelle-de-Montolieu,"En grève les 25 et 26 novembre",lieu
 46.51037301570484, 6.631842197250383,EPS de Lausanne - L'Elysée,"En grève le 4 décembre - Fermé toute la journée !",lieu
 46.52674568513405, 6.6158812972511525,EP de Lausanne - Prélaz,"En grève les 25 et 26 novembre",lieu
@@ -107,4 +107,5 @@ lat,lng,title,description,type
 46.51724531726239, 6.487172477259989, Centre d'Enseignement Professionnel de Morges, "En grève le 4 décembre !", lieu
 46.52194110200459, 6.633215571946943, Action - Rassemblement contre l'austerité, "Appel à tous les lieux mobilisés | Jeudi 4 décembre - 15h | Rassemblment contre la destruction des services publics, NON à l'austerité !", action
 46.54761263465361, 6.574006596744907, Ecole supérieur de la santé - Site de Crissier, "En grève le 4 décembre !", lieu
+
 
