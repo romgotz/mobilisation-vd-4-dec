@@ -1,18 +1,19 @@
 lat,lng,title,description,type
 46.31970087025236,6.959668025418656,EPS d'Aigle,"En grève le 25 et 26 novembre - Fermé partiellement le 26",lieu
 46.29243795246166,6.988626070252049,EPS d'Ollon,"En grève les 25 et 26 novembre - Fermé partiellement les 25 et 26 !",lieu
-46.63944672953115, 6.647403968421193,ES secondaire d'Echallens - Trois-Sapins,"En grève les 25 et 26 novembre",lieu
+46.63944672953115, 6.647403968421193,ES secondaire d'Echallens - Trois-Sapins,"En grève le 4 décembre - Fermé toute la journée !",lieu
 46.664076792752326, 6.794189281916359,EP de Moudon - Lucens,"En grève les 25 et 26 novembre - Fermé les deux jours !",lieu
 46.671901094299, 6.800652795747765,ES de Moudon - Lucens,"En grève les 25 et 26 novembre",lieu
-46.82324783696032, 6.937856868429905,EP de Payerne-Corcelles et environs,"En grève les 25 et 26 novembre - Fermé les deux jours !",lieu
-46.550747016629956, 6.552091483758313,EPS de Bussigny et Villars-Ste-Croix,"En grève les 25 et 26 novembre",lieu
-46.53499353956518, 6.573165210745519,EPS de Chavannes-près-Renens et de St-Sulpice,"En grève les 25 et 26 novembre - Fermé les deux jours !",lieu
+46.82324783696032, 6.937856868429905,EP de Payerne-Corcelles et environs,"En grève le 4 décembre - Fermé toute la. journée !",lieu
+46.550747016629956, 6.552091483758313,EPS de Bussigny et Villars-Ste-Croix,"En grève le 4 décembre ! - Fermé toute la journée !",lieu
+46.53499353956518, 6.573165210745519,EPS de Chavannes-près-Renens et de St-Sulpice,"En grève le 4 décembre - Fermé toute la journée !",lieu
 46.585623575300126, 6.607747753077279,EPS de Cheseaux-sur-Lausanne-La Chamberonne,"En grève le 25 et 26 novembre",lieu
-46.54394361534468, 6.575046539581299,EPS de  Crissier,"En grève le 4 décembre !",lieu
-46.5322958781098, 6.567973568416081,EPS d'Ecublens,"En grève le 4 décembre ! ",lieu
+46.54394361534468, 6.575046539581299,EPS de  Crissier,"En grève le 4 décembre - Fermé toute la journée !",lieu
+46.5322958781098, 6.567973568416081,EPS d'Ecublens,"En grève le 4 décembre ! - Fermé l'après-midi ",lieu
 46.545841467744175, 6.654805968416752,EPS d'Epalinges,"Mobilisé les 25 et 26 novembre",lieu
 46.55684191154278, 6.634687939581944,EPS du Mont-sur-Lausanne,"En grève les 25 et 26 novembre - Fermé les deux jours !",lieu
 46.53714179654676, 6.589430256769616,EP de Renens-Est,"En grève le 25 et 26 novembre - Fermé le 25 l'après-midi",lieu
+46.53102747386684, 6.5860249188339,ES de Renens,"En grève le 4 décembre - Fermé toute la journée !",lieu
 46.77460578487635, 6.635517410756936,ES d'Yverdon-les-Bains - Léon-Michaud,"En grève le 4 décembre !",lieu
 46.32330983700268, 6.186058381900156,ES de Coppet - Terre-Sainte,"En grève les 25 et 26 novembre ! - Fermé le 26 novembre",lieu
 46.45864522445489, 6.3330169972479,EPS de Rolle,"En grève les 25 et 26 novembre !",lieu
@@ -23,23 +24,24 @@ lat,lng,title,description,type
 46.538916510361624, 6.6456297243077875,EP La Sallaz - Collège de Boissonnet et de Riant-Pré, "En grève les 25 et 26 novembre ! - Fermé les deux jours !",lieu
 46.52791624473912, 6.623780681909919,EP de Lausanne - Beaulieu,"En grève les 25 et 26 novembre - Fermé partiellement le 26 novembre",lieu
 46.532185793183004, 6.621944454922087,EPS de Lausanne - Bergières,"En grève le 4 décembre ! - Etablissement fermé ",lieu
-46.52278369643984, 6.641871239580305,EPS de Lausanne - Béthusy,"En grève - Fermé toute la journée",lieu
+46.52278369643984, 6.641871239580305,EPS de Lausanne - Béthusy,"En grève le 4 décembre - Fermé toute la journée",lieu
 46.53741101415756, 6.630991110745695,ES de Lausanne - CF Ramuz,"En grève le 25 et 26 novembre",lieu
 46.53631767271192, 6.660044753144018, EP de Lausanne - Coteau Fleuri, "En grève le 4 décembre ! - Fermé le matin "
 46.5411857455945, 6.647020926087181,EPS de Lausanne - Isabelle-de-Montolieu,"En grève les 25 et 26 novembre",lieu
-46.51037301570484, 6.631842197250383,EPS de Lausanne - L'Elysée,"En grève les 25 et 26 novembre - Fermé le 25 après-midi et le 26 en partie",lieu
+46.51037301570484, 6.631842197250383,EPS de Lausanne - L'Elysée,"En grève le 4 décembre - Fermé toute la journée !",lieu
 46.52674568513405, 6.6158812972511525,EP de Lausanne - Prélaz,"En grève les 25 et 26 novembre",lieu
 46.51899228994261, 6.638363683756804,EPS de Lausanne - Villamont,"En grève les 25 et 26 novembre - Fermé 25 matin et 26 matin",lieu
 46.46679476635341, 6.896149354918965,EPS de Blonay - Saint-Légier,"En grève les 25 et 26 novembre | 25 et 26 : secondaire I fermé / 5H-8H - fermé le 26",lieu
 46.47157142076017, 6.845075639577858,EPS de Corsier-sur-Vevey et environs,"En grève le 4 décembre ! - Fermé le 4 l'après-midi",lieu
 46.45939435877983, 6.847640854918624,EPS de Vevey,"En grève les 25 et 26 novembre ! - Fermé le 25 !",lieu
-46.435238722294514, 6.913222654917503,EPS de Montreux-Est,"En grève les 25 et 26 novembre",lieu
+46.435238722294514, 6.913222654917503,EPS de Montreux-Est,"En grève le 4 décembre",lieu
 46.44526471749292, 6.8988312530706795,EPS de Montreux-Ouest,"En grève les 25 et 26 novembre | Montreux-Ouest fermé partiellement mercredi - Collège Rambert (secondaire) fermé mardi aprèm",lieu
 46.57204908222817, 6.824099768418007,EPS d'Oron - Palézieux,"En grève les 25 et 26 novembre - Fermé les deux jours !",lieu
 46.73257266789995, 6.531039449449161, ES d'Orbe et environs, "Mobilisé les 25 et 26 novembre !", lieu
 46.51299969037001, 6.660032339579869,ES de Pully,"En grève les 25 et 26 novembre - Fermé les deux jours !",lieu
 46.50947118249321, 6.650263026085686,EP de Pully,"En grève les 25 et 26 novembre - Fermé les deux jours !",lieu
 46.51678817647073, 6.524911915062554,EPS de Préverenges et environs,"En grève les 25 et 26 novembre - Fermé le 25 l'après-midi et le 26 !",lieu
+46.65810732063352, 6.5161599067460845, EPS La Sarrraz, "En grève le 4 décembre !"
 46.511292017807314, 6.6212939310651375,Gymnase Auguste Piccard,"En grève le 4 décembre !",lieu
 46.52744258010184, 6.625037575964566,Gymnase de Beaulieu,"En grève le 4 décembre !",lieu
 46.523602092143136, 6.640336739541087,Gymnase de Bugnon,"En grève le 4 décembre !",lieu
@@ -73,12 +75,12 @@ lat,lng,title,description,type
 46.525749615335215, 6.579320286536606, Archives cantonales vaudoises, "En grève les 25 et 26 novembre ! - Fermé le 25 l'après-midi", lieu
 46.536542196586396, 6.633020358709618,EP de Lausanne - Entrebois,"En grève les 25 et 26 novembre - Fermé le 25 novembre !",lieu
 46.53994806680921, 6.587885181910438,EP de Renens-Ouest,"En grève les 25 et 26 novembre - Fermé partiellement le 25 après-mid et le 26 le matin",lieu
-46.53016397416625, 6.6455511064880275,EP de Lausanne - La Sallaz - Collèges de la Sallaz et de Vers-chez-les-Blancs,"En grève les 25 et 26 novembre - Fermé le 26 !",lieu
+46.53016397416625, 6.6455511064880275,EP de Lausanne - La Sallaz - Collèges de la Sallaz et de Vers-chez-les-Blancs,"En grève le 4 décembre ! - Les 4 sites fermées toute la journée !",lieu
 46.51305860674805, 6.62376289725051,EP de Floréal - Collèges de Cour de Montriond et de Floréal,"En grève les 25 et 26 novembre - Fermé le 26 !",lieu
 46.50791408630064, 6.684955468414976,EPS de Lutry,"En grève les 25 et 26 novembre !",lieu
-46.58159980270433, 6.643936210747802,EPS de Cugy et environs,"En grève les 25 et 26 novembre - Fermé les deux jours !",lieu
-46.59458008144759, 6.767591627937038,EPS du Jorat,"En grève les 25 et 26 novembre - Fermé les deux jours !",lieu
-46.70456988981195, 6.5742818089750585, EPS Chavornay, "En grève les 25 et 26 novembre - Fermé le 26 le matin !", lieu
+46.58159980270433, 6.643936210747802,EPS de Cugy et environs,"En grève le 4 décembre - Fermé toute la journée !",lieu
+46.59458008144759, 6.767591627937038,EPS du Jorat,"En grève le 4 décembre - Fermé toute la journée !",lieu
+46.70456988981195, 6.5742818089750585, EPS Chavornay, "En grève le 4 décembre ! - Fermé toute la journée !", lieu
 46.516767398686135, 6.500850483756686,ES de Morges - Beausobre,"En grève les 25 et 26 novembre - Fermé le 25 ! ",lieu
 46.52306056379779, 6.620771777764787, EPSIC - Ecole professionnelle de Lausanne, "En grève le 25 et préavis le 26 novembre", lieu
 46.50674451090536, 6.65914869867485, Gymnase Pour Adultes, "En grève les 25 et 26 novembre !", lieu
@@ -104,7 +106,4 @@ lat,lng,title,description,type
 46.519119358905655, 6.56797620474569, EPFL, "En grève le 4 décembre !", lieu
 46.51724531726239, 6.487172477259989, Centre d'Enseignement Prfessionnel de Morges, "En grève le 4 décembre !", lieu
 46.52194110200459, 6.633215571946943, Action - Rassemblement contre l'austerité, "Appel à tous les lieux mobilisés | Jeudi 4 décembre - 15h | Rassemblment contre la destruction des services publics, NON à l'austerité !", action
-
-
-
-
+46.54761263465361, 6.574006596744907, Ecole supérieur de la santé - Site de Crissier, "En grève le 4 décembre !", lieu
