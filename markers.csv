@@ -10,7 +10,7 @@ lat,lng,title,description,type
 46.77460578487635, 6.635517410756936,ES d'Yverdon-les-Bains - Léon-Michaud,"En grève le 4 décembre !",lieu
 46.38204657235337, 6.22586575178298,ES de Nyon - Marens,"En grève le 4 décembre - Fermé toute la journée !",lieu
 46.389424178466115, 6.224675126079991,EP de Nyon Jura et Prangins,"En grève le 4 décembre - Fermé le matin ",lieu
-46.47889830393454, 6.23829048229469, Collège de Le Vaud, "En grève le 4 décembre - Fermé partiellement"
+46.47889830393454, 6.23829048229469, Collège de Le Vaud, "En grève le 4 décembre - Fermé partiellement", lieu
 46.532185793183004, 6.621944454922087,EPS de Lausanne - Bergières,"En grève le 4 décembre ! - Etablissement fermé ",lieu
 46.52278369643984, 6.641871239580305,EPS de Lausanne - Béthusy,"En grève le 4 décembre - Fermé toute la journée",lieu
 46.53631767271192, 6.660044753144018, EP de Lausanne - Coteau Fleuri, "En grève le 4 décembre ! - Fermé le matin ", lieu
@@ -58,3 +58,4 @@ lat,lng,title,description,type
 46.45933753247789, 6.845991932040575, Action secteur de l'enfance - Rassemblement à Vevey, "Action du secteur de l'enfance à Vevey | Jeudi 4 décembre - 17h | Suite au rassemblment de 15h à Vevey, un autre rassemblement a lieu pour soutenir le secteur de l'enfance !", action
 46.54761263465361, 6.574006596744907, Ecole supérieur de la santé - Site de Crissier, "En grève le 4 décembre !", lieu
 46.47913767334043, 6.853165539144559, Fondation de Nant, "Mobilisé le 4 décembre", lieu
+
